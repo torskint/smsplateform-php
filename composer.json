@@ -1,0 +1,26 @@
+{
+    "name": "smsplateform/php",
+    "type": "library",
+    "description": "Cette librairie est mise à la disposition des développeurs qui désirent interagir avec l'api de la plateforme d'envoi de sms marketing en ligne : sms plateform .",
+    "keywords": ["smsplateform","sms plateform","send sms","sms api"],
+    "homepage": "https://smsplateform.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sms Plateform",
+            "email": "support@smsplateform.com",
+            "homepage": "https://smsplateform.com/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "symfony/http-client": "^5.1",
+        "nyholm/psr7": "^1.3"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Smsplateform\\Client\\": "src"
+        }
+    }
+}

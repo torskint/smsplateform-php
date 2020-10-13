@@ -1,7 +1,7 @@
 {
     "name": "smsplateform/php",
     "type": "library",
-    "description": "Cette librairie est mise à la disposition des développeurs qui désirent interagir avec l'api de la plateforme d'envoi de sms marketing en ligne : sms plateform .",
+    "description": "Cette librairie est mise à la disposition des développeurs qui désirent interagir avec l'api de la plateforme d'envoi de sms marketing en ligne : www.smsplateform.com .",
     "keywords": ["smsplateform","sms plateform","send sms","sms api"],
     "homepage": "https://smsplateform.com",
     "license": "MIT",
